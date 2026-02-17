@@ -1,3 +1,4 @@
 # repos-demo
-this is my first git repository.
-author - akanksha 
+This is my first Git Repository.
+<br>
+Author - Akanksha Talpe
